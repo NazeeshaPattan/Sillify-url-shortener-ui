@@ -4,7 +4,7 @@
 
 # [SillyFy-URL-Shortener-UI](https://sillyfy.netlify.app/)
 
-*A URL Shortening Web Application integrated by [SillyFy-URL-Shortener-API](https://github.com/beharavenkatasatyaprasad/SillyFy-URL-Shortener-Server).*
+*A URL Shortening Web Application integrated by [SillyFy-URL-Shortener-API](https://github.com/NazeeshaPattan/sillify-url-shortener-server).*
 
 ### [Live](https://sillyfy.netlify.app/)
 
@@ -18,7 +18,6 @@
 
 ##### Links
  - ``Server Deployment URL: https://sillyfy.herokuapp.com/``
- - ``Server GitHub Repo Link: https://github.com/NazeeshaPattan/Sillify-url-shortener-ui
- 
+ - ``Server GitHub Repo Link: https://github.com/NazeeshaPattan/sillify-url-shortener-server
 
 
