@@ -18,12 +18,7 @@
 
 ##### Links
  - ``Server Deployment URL: https://sillyfy.herokuapp.com/``
- - ``Server GitHub Repo Link: https://github.com/beharavenkatasatyaprasad/SillyFy-URL-Shortener-Server``
+ - ``Server GitHub Repo Link: https://github.com/NazeeshaPattan/Sillify-url-shortener-ui
  
-#### License
-
-MIT © [Satya Prasad Behara](https://github.com/beharavenkatasatyaprasad)
-
-<img  src="https://github.com/beharavenkatasatyaprasad/beharavenkatasatyaprasad/blob/main/gifs/bars.gif" alt=""/>
 
 
